@@ -1,4 +1,6 @@
-# sanberlive-22jan
+# sanberlive-22jan2023
+Welcome to Class!!!
+
 Latihan Online sanber javascript dan git
 
 Berikut ini cara installasi software
