@@ -8,3 +8,5 @@ Berikut ini cara installasi software
 
 How to run
 node namafile.js
+
+Update Readme Partial
